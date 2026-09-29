@@ -1,0 +1,6 @@
+{
+  "name": "Umurimo Rwanda - Daily Earnings & Micro-Tasks Platform",
+  "description": "Rwanda online platform for micro-tasks, daily profit products, MTN & Airtel Mobile Money deposits, and withdrawals in Easy English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
